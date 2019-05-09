@@ -1,0 +1,2 @@
+Country Country = usa, population = 5000000
+Country Country = Canada, population = 29
